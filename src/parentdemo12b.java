@@ -8,7 +8,7 @@ public class parentdemo12b {
 	
 	public parentdemo12b ()
 	{
-		System.out.println("parent class constructor");
+		System.out.println("poda");
 	}
 	
 	public void getData()
