@@ -10,7 +10,7 @@ public class forLoop3 {
 			System.out.println(arr2[i]);
 	}
 
-String [] name = {"Siva", "Moni", "Vishu"};
+String [] name = {"Siva", "Moni", "Kushu"};
 		
 		for(int i=0; i<name.length; i++) //arr.length =5
 		{
